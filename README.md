@@ -1,6 +1,5 @@
 # Z80-MBC2_guide
-A kind of a user guide for the great Z80-MBC2 single board computer is in the PDF document. Download it and use freely. 
-Project pages:
+A kind of a user guide for the great Z80-MBC2 single board computer is in the PDF document. Download it and use freely. \\ Project pages:
 - https://hackaday.io/project/159973-z80-mbc2-4ics-homemade-z80-computer
 - https://github.com/SuperFabius/Z80-MBC2
 
